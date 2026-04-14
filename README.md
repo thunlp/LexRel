@@ -1,7 +1,5 @@
 <h1 align="center">LexRel: Legal Relation Extraction Benchmark<br>for Chinese Civil Cases</h1>
 
----
-
 # News
 
 - 🚀 [2026/04/14]: We release the **LexRel** dataset, along with the complete pipeline for data generation, training, and evaluation!
