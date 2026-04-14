@@ -112,13 +112,10 @@ Each sample in the dataset follows this JSON structure:
 ## Citation
 
 ```bibtex
-@misc{cai2025lexrelbenchmarkinglegalrelation,
-      title={LexRel: Benchmarking Legal Relation Extraction for Chinese Civil Cases}, 
-      author={Yida Cai and Ranjuexiao Hu and Huiyuan Xie and Chenyang Li and Yun Liu and Yuxiao Ye and Zhenghao Liu and Weixing Shen and Zhiyuan Liu},
-      year={2025},
-      eprint={2512.12643},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2512.12643}, 
+@article{cai2025lexrelbenchmarkinglegalrelation,
+      title={LexRel: Benchmarking Legal Relation Extraction for Chinese Civil Cases},
+      author={Yida Cai, Ranjuexiao Hu, Huiyuan Xie, Chenyang Li, Yun Liu, Yuxiao Ye, Zhenghao Liu, Weixing Shen, Zhiyuan Liu},
+      journal={arXiv preprint arXiv:2512.12643},
+      year={2025}
 }
 ```
