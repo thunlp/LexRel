@@ -109,10 +109,6 @@ Each sample in the dataset follows this JSON structure:
 }
 ```
 
-## License
-
-This dataset is released for research purposes only. Please refer to the paper for detailed license information.
-
 ## Citation
 
 ```bibtex
