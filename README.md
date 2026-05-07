@@ -6,11 +6,6 @@
 - 🎉 [2026/04/05]: Our paper has been accepted to the **ACL 2026** Main Conference!
 - 📄 [2025/12/14]: Our preprint [LexRel: Benchmarking Legal Relation Extraction for Chinese Civil Cases](https://arxiv.org/abs/2512.12643) is now available on arXiv!
 
-# Links
-
-- 📜 [Paper](https://arxiv.org/abs/2512.12643)
-- 🌍 [Github](https://github.com/thunlp/LexRel)
-
 # Introduction
 
 Legal relations form a highly consequential analytical framework of civil law system, serving as a crucial foundation for resolving disputes and realizing values of the rule of law in judicial practice. However, legal relations in Chinese civil cases remain underexplored in the field of legal artificial intelligence (legal AI), largely due to the absence of comprehensive schemas.
