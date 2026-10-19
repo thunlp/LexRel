@@ -107,10 +107,17 @@ Each sample in the dataset follows this JSON structure:
 ## Citation
 
 ```bibtex
-@article{cai2025lexrelbenchmarkinglegalrelation,
-      title={LexRel: Benchmarking Legal Relation Extraction for Chinese Civil Cases},
-      author={Yida Cai, Ranjuexiao Hu, Huiyuan Xie, Chenyang Li, Yun Liu, Yuxiao Ye, Zhenghao Liu, Weixing Shen, Zhiyuan Liu},
-      journal={arXiv preprint arXiv:2512.12643},
-      year={2025}
+@inproceedings{cai-etal-2026-lexrel,
+    title = "{L}ex{R}el: Benchmarking Legal Relation Extraction for {C}hinese Civil Cases",
+    author = "Cai, Yida and Hu, Ranjuexiao and Xie, Huiyuan and Li, Chenyang and Liu, Yun and Ye, Yuxiao and Liu, Zhenghao and Shen, Weixing and Liu, Zhiyuan",
+    booktitle = "Proceedings of the 64th Annual Meeting of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    year = "2026",
+    publisher = "Association for Computational Linguistics",
+    pages = "21440--21456",
+    url = "https://aclanthology.org/2026.acl-long.980/",
 }
 ```
+
+## License
+
+This project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
