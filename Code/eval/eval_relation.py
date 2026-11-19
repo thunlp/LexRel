@@ -29,8 +29,8 @@ if __name__ == "__main__":
         except KeyError:
             continue
         
-    precision = total_tp / (total_tp + total_fp) if (total_fp) > 0 else 0
-    recall = total_tp / (total_tp + total_fn) if (total_fn) > 0 else 0
+    precision = total_tp / (total_tp + total_fp) if (total_tp + total_fp) > 0 else 0
+    recall = total_tp / (total_tp + total_fn) if (total_tp + total_fn) > 0 else 0
     f1 = 2 * (precision * recall) / (precision + recall) if (precision + recall) > 0 else 0
     
     print(f"Precision: {precision:.4f}, Recall: {recall:.4f}, F1: {f1:.4f}")
